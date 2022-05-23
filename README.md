@@ -1,19 +1,10 @@
-# vrr
+# 放映厅电影
 
-## Project setup
-```
-npm install
-```
+### 这是一个移动端的电影前端项目
+### 本项目为个人开发作品🤠
 
-### Compiles and hot-reloads for development
+## 应用项目需要使用`npm init`
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
